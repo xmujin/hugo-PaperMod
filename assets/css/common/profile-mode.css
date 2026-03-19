@@ -17,6 +17,14 @@
     gap: 10px;
 }
 
+.profile_inner > h1 {
+    color: gold;
+}
+
+.profile_inner > span {
+    color: #87CEFA;
+}
+
 .profile img {
     border-radius: 50%;
 }
