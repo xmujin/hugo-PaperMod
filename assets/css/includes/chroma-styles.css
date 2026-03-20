@@ -17,7 +17,10 @@
 /* KeywordPseudo */ .chroma .kp { color: #c6a0f6 }
 /* KeywordReserved */ .chroma .kr { color: #c6a0f6 }
 /* KeywordType */ .chroma .kt { color: #ed8796 }
-/* Name */ .chroma .n {  }
+
+/* 常用字颜色 */
+/* Name */ .chroma .n { color: #111; }
+
 /* NameAttribute */ .chroma .na { color: #8aadf4 }
 /* NameBuiltin */ .chroma .nb { color: #91d7e3 }
 /* NameBuiltinPseudo */ .chroma .bp { color: #91d7e3 }
@@ -63,7 +66,11 @@
 /* LiteralNumberOct */ .chroma .mo { color: #f5a97f }
 /* Operator */ .chroma .o { color: #91d7e3; font-weight: bold }
 /* OperatorWord */ .chroma .ow { color: #91d7e3; font-weight: bold }
-/* Punctuation */ .chroma .p {  }
+
+/* 标点符号 */
+/* Punctuation */ .chroma .p { color: #1404fa; }
+
+
 /* Comment */ .chroma .c { color: #6e738d; font-style: italic }
 /* CommentHashbang */ .chroma .ch { color: #6e738d; font-style: italic }
 /* CommentMultiline */ .chroma .cm { color: #6e738d; font-style: italic }
