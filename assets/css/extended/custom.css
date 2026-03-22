@@ -1,0 +1,28 @@
+:root {
+    /* md代码块的背景颜色 */
+    --code-block-bg: rgb(245, 248, 239); 
+}
+
+
+.chroma .n { 
+    /* 代码块变量的颜色 */
+    color: rgb(83, 85, 85);
+}
+
+/* 括号这些颜色 */
+.chroma .p { color:rgb(8, 6, 4) }
+
+/* 代码行号 */
+.chroma .lnt { 
+    color: #3f66ff 
+}
+
+/* 注释风格调整 */
+/* Comment */ .chroma .c { color: #788CA0; font-style: normal }
+/* CommentHashbang */ .chroma .ch { color: #788CA0; font-style: normal }
+/* CommentMultiline */ .chroma .cm { color: #788CA0; font-style: normal }
+/* CommentSingle */ .chroma .c1 { color: #788CA0; font-style: normal }
+/* CommentSpecial */ .chroma .cs { color: #788CA0; font-style: normal }
+/* CommentPreproc */ .chroma .cp { color: #788CA0; font-style: normal }
+/* CommentPreprocFile */ .chroma .cpf { color: #788CA0; font-weight: bold; font-style: normal }
+
